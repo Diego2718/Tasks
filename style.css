@@ -6,7 +6,7 @@ body, h1, h2, p, ul, li, form, input, textarea, select {
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
+  background-color: #f2f2f2; 
   color: #333;
   line-height: 1.5;
 }
